@@ -1,0 +1,16 @@
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/model/Tratamiento.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/dao/IncidenciaDAO.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/dao/TratamientoDAO.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/dao/DoctorDAO.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/controller/DataServlet.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/util/Constantes.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/dao/EnfermedadDAO.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/controller/SelectServlet.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/model/Doctor.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/util/GenericCRUD.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/dao/OficinaDAO.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/model/Enfermedad.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/util/Conexion.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/model/Oficina.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/model/Incidencia.java
+/home/charlie/NetBeansProjects/Maven/MateDiscretasSulca/src/main/java/mate/discretas/controller/CRUDServlet.java

@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+    padding-top: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Calibri";
+    font-size: 1rem;
+    background-color: #A9D0F5;
+}
+
+header{
+    text-align: center;
+    height: 150px;
+    padding-top: 40px;
+    background-color: #F7D358;
+    border-bottom: 0.15rem solid black;
+    margin-bottom: 30px;
+}
+
+textarea{
+    resize: none;
+}
+tr{
+    height: 30px;
+}
+input, select{
+    width: 200px;
+    float: right;
+    height: 28px;
+}
+
+#container{
+    width: 1000px;
+    margin: auto;
+}
+
+.input-div{
+    float: left;
+    width: 400px;
+    margin: 8px 50px;
+}
+
+.div-tratamiento{
+    float: left;
+    width: 100%;
+    margin: 10px 50px;
+}
+
+#div-reporte{
+    float: left;
+    text-align: center;
+    width: 100%;
+    margin: 20px 0px;
+}
+
+#tratamiento{
+    height: 50px;
+    width: 500px;
+    margin: 0 70px;
+}
+
+#div-buttons{
+    float: left;
+    width: 800px;
+    margin: 0 100px;
+}
+
+#reporte{
+    margin: auto;
+    width: 800px;
+}
+
+#div-buttons button{
+    width: 100px;
+    height: 30px;
+    margin: 5px 48px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+tr,th,td{
+    border: 0.2rem solid #F7D358;
+}
+
+.img-seleccion{
+    width: 52px;
+}

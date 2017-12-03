@@ -1,0 +1,16 @@
+mate/discretas/controller/SelectServlet.class
+mate/discretas/model/Incidencia.class
+mate/discretas/model/Doctor.class
+mate/discretas/controller/CRUDServlet.class
+mate/discretas/dao/DoctorDAO.class
+mate/discretas/dao/IncidenciaDAO.class
+mate/discretas/model/Enfermedad.class
+mate/discretas/dao/OficinaDAO.class
+mate/discretas/util/Constantes.class
+mate/discretas/dao/EnfermedadDAO.class
+mate/discretas/model/Oficina.class
+mate/discretas/dao/TratamientoDAO.class
+mate/discretas/util/Conexion.class
+mate/discretas/util/GenericCRUD.class
+mate/discretas/model/Tratamiento.class
+mate/discretas/controller/DataServlet.class
